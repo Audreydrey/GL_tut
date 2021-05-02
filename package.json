@@ -1,0 +1,23 @@
+{
+  "name": "gl_tut",
+  "version": "1.0.0",
+  "description": "4, 2 framebuffers apply convolution sequentially add extra textures",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "serve": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^5.1.1",
+    "html-webpack-plugin": "^4.2.0",
+    "raw-loader": "^4.0.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "keywords": [
+    "wegbl"
+  ],
+  "author": "Audrey",
+  "license": "ISC"
+}
